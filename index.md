@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Hello World</h1>
-    <p>This is a web page.</p>
+    <h1>JESUS IS LORD OF ALL</h1>
+    <p>I worship and adore YOur Name.</p>
   </body>
 </html>
